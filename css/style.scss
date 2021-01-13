@@ -39,11 +39,12 @@ nav{
   }
 }
 // ------navigation-------
-.navigation{
-  display: flex;
-  justify-content: center;
+// .navigation{
+//   display: flex;
+//   justify-content: center;
 
-}
+// }
+
 .menu{
   display: flex;
   li{
@@ -85,13 +86,13 @@ nav{
 }
 
 .f-slide-1{
-  background-image:linear-gradient(rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1)), url(../images/logo-04.jpg);
+  background-image:linear-gradient(rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1)), url(../images/slider/1.jpg);
 }
 .f-slide-2{
-  background-image:linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.1)), url(../images/fon-01.jpg);
+  background-image:linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.1)), url(../images/slider/2.jpg);
 }
 .f-slide-3{
-  background-image:linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.1)), url(../images/fon-03.jpg);
+  background-image:linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.1)), url(../images/slider/3.jpg);
 }
 .slider-text-container{
   width: 98%;
@@ -133,7 +134,7 @@ nav{
        font-weight: 700;
        color: #fff;
      }
-     p{
+     h2{
        font-size: 25px;
        font-weight: 700;
        color: #fff;
@@ -141,17 +142,7 @@ nav{
      
 }
 
-// .f-slider-text{
-//   display: flex;
-//   flex-direction: column;
-//   margin-right: auto;
-//   color: #fff;
-//   font-weight: 700;
-//   font-family: 'Cabin', sans-serif;
-  
-  
- 
-// }
+
 
 
 
