@@ -8,6 +8,10 @@
   font-family: 'Quattrocento', serif;
 }
 
+body {
+  background-color: #f0ede9;
+}
+
 ul {
   list-style: none;
 }
