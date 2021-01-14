@@ -287,7 +287,7 @@ nav {
 
 .button {
   background-color: #5181c2;
-  color: #fff;
+  color: #776767;
   font-size: 16px;
   border: 1px solid #5181c2;
   padding: 7px 25px;
@@ -299,7 +299,8 @@ nav {
 }
 
 .button:hover {
-  background-color: #0c356d;
+  background-color: transparent;
+  color: #000;
 }
 
 .maps {

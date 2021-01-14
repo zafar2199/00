@@ -258,7 +258,7 @@ nav{
 
 .button{
   background-color: #5181c2;
-  color: #fff;
+  color: rgb(119, 103, 103);
   font-size: 16px;
   border: 1px solid #5181c2;
   padding: 7px 25px;
@@ -267,7 +267,8 @@ nav{
   position: absolute;
   transition: all 0.5s ease;
   &:hover{
-    background-color: #0c356d;
+    background-color: transparent;
+    color: #000;
   }
   
 }
@@ -288,5 +289,8 @@ nav{
   height:440px;
   flex: 50%;
 }
+
+
+
 
 
